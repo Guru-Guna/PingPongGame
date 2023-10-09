@@ -33,8 +33,8 @@ In PaddleRight (Negative button - down and positive buttom - up) and paddleLeft(
  
  ## Program:
  ```
- Developed By: M.Vidya Neela
- Register Number: 212221230120
+ Developed By: Gunaseelan G
+ Register Number: 212221230031
  ```
  ```
  using System.Collections;
